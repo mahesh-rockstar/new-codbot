@@ -1,0 +1,7 @@
+touch mahesh
+cat>mahesh
+ll
+ls
+cat>>mahesh
+cat mahesh 
+ls
